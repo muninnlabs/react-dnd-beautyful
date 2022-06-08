@@ -1,0 +1,9 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+.ant-list-item {
+    border: 1px solid #000;
+    border-bottom: 1px solid #000 !important;
+    margin: 5px 0;
+}
