@@ -7,3 +7,11 @@
     border-bottom: 1px solid #000 !important;
     margin: 5px 0;
 }
+
+.placeholder {
+    position: absolute;
+    background-color: white;
+    border-radius: 3px;
+    border: dashed 1px blue;
+    background-color: white;
+}
